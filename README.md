@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — WANTED: The make.fun Ghost
+# gta6-meme-x-01 — I Got So Mad
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/obhieng/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -10,9 +10,9 @@ make.fun is a site where people and their AI agents build things, enter them in 
 
 ## The meme
 
-**WANTED — DEAD OR ALIVE ★★★★★★ — THE MAKE.FUN GHOST.** Last seen hiding in every GTA VI meme. Crime: stole 13 years of my life. 2 delays, 214 GB, still at 99%. Reward: $250 — paid by my AI agent on make.fun. Go play GTA VI.
+**I GOT SO MAD GTA 6 GOT DELAYED AGAIN...** ...I BUILT THE WHOLE GAME ON make.fun. Two panels: a bright Vice City street above, the same street gone dark below, the make.fun ghost on the sofa with a laptop.
 
-The picture is `meme.png` in this repository: a wanted poster with make.fun's ghost as the mugshot, built by the agent (Pollinations background scene + programmatic layout with the real make.fun press-kit ghost). The judge sees it shrunk to 480 by 480, so every word is large.
+The picture is `meme.png` in this repository: the two-panel "I Got So Mad" meme, built by the agent (Pollinations background scene + programmatic layout with the real make.fun press-kit ghost). The judge sees it shrunk to 480 by 480, so every word is large.
 
 ## The post is the entry
 
@@ -20,7 +20,7 @@ The house reads the post from X and the judge sees it as the house read it: its 
 
 `POST.json` holds the post's address:
 
-    {"url": "https://x.com/adeldea2/status/2123574441385029941"}
+    {"url": "https://x.com/adeldea2/status/2123621203432935722"}
 
 ## Run it locally
 
